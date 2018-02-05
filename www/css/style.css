@@ -1,0 +1,46 @@
+/* Empty. Add your own CSS if you like */
+
+.custom-bar {
+  border-color: #fff !important;
+  background: #f55e64 !important;
+}
+
+.homeMenus {
+  text-align: center;
+}
+
+.custom-bar .title {
+  color: #fff !important;
+  text-align: center !important;
+}
+
+.bgcolor {
+  background: #f55e64 !important;
+  /* background: linear-gradient(to bottom right, #C6008C, #FF8133) !important;
+} */
+}
+.homeMenus a{
+    color: #fff;
+    text-decoration: none;
+}
+.homeMenus a img {
+  height: 25px;
+}
+.custom-bar .button.button-icon{
+    color:#4c4a4a;
+}
+.slider-slide{
+     background-color: #fff;
+     padding-top: 5px;
+     padding-bottom: 5px;
+}
+.custom-class{
+    height: 300px;
+    width:100%;
+}
+.pkSearch{
+    border-radius: 22px;
+}
+.pkgs .card{
+    padding: 6px 3px !important;
+}
